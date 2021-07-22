@@ -1,0 +1,3 @@
+REffernce from asp.net core by Kudivenkat
+
+https://www.pragimtech.com/blog/blazor-webAssembly/asp-net-5-rest-api-tutorial/
